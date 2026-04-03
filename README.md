@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hassnain Ali
 
-<!--
-**aj1940750-dev/aj1940750-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a BS Information Technology student with interests in SEO, Digital Marketing, and Programming.  
+Currently learning and improving my technical skills with a goal to become a Data Scientist.
 
-Here are some ideas to get you started:
+## Skills
+- Programming: C++, Python, JavaScript  
+- Web & Marketing: SEO, Digital Marketing  
+- Tools: Microsoft Excel, Microsoft Word  
+- Version Control: Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Python Calculator** – A simple Python program performing basic arithmetic operations.  
+- **Personal Portfolio Website** – A responsive website to showcase skills and projects.  
+- **SEO Analysis Project** – Analyzing website SEO performance, keyword research, and optimization strategies.  
+
+## Currently Learning
+- BS Information Technology  
+- Data Science fundamentals  
+- Advanced Excel & Python  
+
+## GitHub Stats
+![Hassnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aj1940750-dev&show_icons=true&theme=default)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aj1940750-dev&layout=compact&theme=default)
+
+## Contact
+- Email: aj1940750@gmail.com
